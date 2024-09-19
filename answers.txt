@@ -6,3 +6,7 @@ Answer: Very user friendly!
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to the health field to predict disease spread patterns
+Q3: What is the difference between merging and rebasing?
+
+Answer:Merging helps preserve the history of your current repository while rebasing moves the feature branch to the end of 
+main.
